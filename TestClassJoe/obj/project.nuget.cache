@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "AuLfx+qtQliIUb5uXg/aphbVL5bbQ0ADm79Le6rgnulCUn2iuYr0zrRB7yTZHJRXtk0LrzT71tTt1q+GQkhaBA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hp user\\source\\repos\\TestClassJoe\\TestClassJoe\\TestClassJoe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\hp user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\hp user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\hp user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

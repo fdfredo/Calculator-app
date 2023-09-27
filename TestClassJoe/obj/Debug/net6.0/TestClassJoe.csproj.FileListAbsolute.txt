@@ -1,0 +1,15 @@
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\bin\Debug\net6.0\TestClassJoe.exe
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\bin\Debug\net6.0\TestClassJoe.deps.json
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\bin\Debug\net6.0\TestClassJoe.runtimeconfig.json
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\bin\Debug\net6.0\TestClassJoe.dll
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\bin\Debug\net6.0\TestClassJoe.pdb
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\TestClassJoe.csproj.AssemblyReference.cache
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\TestClassJoe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\TestClassJoe.AssemblyInfoInputs.cache
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\TestClassJoe.AssemblyInfo.cs
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\TestClassJoe.csproj.CoreCompileInputs.cache
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\TestClassJoe.dll
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\refint\TestClassJoe.dll
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\TestClassJoe.pdb
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\TestClassJoe.genruntimeconfig.cache
+C:\Users\hp user\source\repos\TestClassJoe\TestClassJoe\obj\Debug\net6.0\ref\TestClassJoe.dll
